@@ -20,7 +20,7 @@ spec:
 --- 
 # https://kubernetes.io/docs/concepts/services-networking/service/#defining-a-service  
 kind: Service 
-apiVersion: 20 
+apiVersion: v1 
 metadata: 
   name: node
 spec: 
