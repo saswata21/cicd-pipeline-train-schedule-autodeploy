@@ -13,7 +13,7 @@ spec:
         app: node 
     spec: 
       containers: 
-      - name: angular 
+      - name: node 
         image: saswata2108/edureka_project2:20 
         ports: 
         - containerPort: 8080 
