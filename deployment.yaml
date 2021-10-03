@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: houssemdocker/angular-app:v1 
+        image: saswata2108/edureka_project2:20 
         ports: 
         - containerPort: 8080 
 --- 
